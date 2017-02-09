@@ -1,0 +1,2 @@
+# exampleBot
+exampleBot does exampleThings
