@@ -1,2 +1,2 @@
 # exampleBot
-exampleBot does exampleThings
+exampleBot says pong when you ping her! 
